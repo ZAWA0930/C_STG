@@ -1,0 +1,1 @@
+﻿C:\Users\okuza\OneDrive\デスクトップ\コンピュータの基礎\shooting\shooting\shooting.vcxproj(40,5): error MSB4019: インポートされたプロジェクト "C:\Users\okuza\OneDrive\デスクトップ\コンピュータの基礎\shooting\DxLib_VC.props" が見つかりませんでした。Import 宣言 "..\DxLib_VC.props" の式が正しいことと、ファイルがディスク上に存在することを確認してください。
