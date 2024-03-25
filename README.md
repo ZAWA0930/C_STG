@@ -1,5 +1,8 @@
 # C_STG
 ＜シューティングゲーム「MonkeyGame」の開発＞  
+
+動画:https://drive.google.com/file/d/1NJ74T64PbFk_53yI3-3eFi8j5hl4D-v0/view?usp=sharing
+
 【1．プロジェクト目標】  
 最低限の機能をもったシューティングゲームをVisual Studio2019(言語 C++)と DirectX を使い実現す
 る。加えて、BGM やゲームのクリア・ゲームオーバー、スコアの設定などを制作し、最低限から機能を
